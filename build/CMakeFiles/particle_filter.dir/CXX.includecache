@@ -1,0 +1,108 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/marlosdamasceno/Dados/Udacity/Self Drive Car/SentToUdacity/008 - Kidnapped Vehicle/src/helper_functions.h
+sstream
+-
+fstream
+-
+math.h
+-
+vector
+-
+map.h
+/media/marlosdamasceno/Dados/Udacity/Self Drive Car/SentToUdacity/008 - Kidnapped Vehicle/src/map.h
+
+/media/marlosdamasceno/Dados/Udacity/Self Drive Car/SentToUdacity/008 - Kidnapped Vehicle/src/json.hpp
+algorithm
+-
+array
+-
+cassert
+-
+cctype
+-
+ciso646
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdlib
+-
+cstring
+-
+forward_list
+-
+functional
+-
+initializer_list
+-
+iomanip
+-
+iostream
+-
+iterator
+-
+limits
+-
+locale
+-
+map
+-
+memory
+-
+numeric
+-
+sstream
+-
+stdexcept
+-
+string
+-
+type_traits
+-
+utility
+-
+vector
+-
+
+/media/marlosdamasceno/Dados/Udacity/Self Drive Car/SentToUdacity/008 - Kidnapped Vehicle/src/main.cpp
+uWS/uWS.h
+-
+iostream
+-
+json.hpp
+/media/marlosdamasceno/Dados/Udacity/Self Drive Car/SentToUdacity/008 - Kidnapped Vehicle/src/json.hpp
+math.h
+-
+particle_filter.h
+/media/marlosdamasceno/Dados/Udacity/Self Drive Car/SentToUdacity/008 - Kidnapped Vehicle/src/particle_filter.h
+
+/media/marlosdamasceno/Dados/Udacity/Self Drive Car/SentToUdacity/008 - Kidnapped Vehicle/src/map.h
+
+/media/marlosdamasceno/Dados/Udacity/Self Drive Car/SentToUdacity/008 - Kidnapped Vehicle/src/particle_filter.cpp
+random
+-
+algorithm
+-
+iostream
+-
+sstream
+-
+iterator
+-
+particle_filter.h
+/media/marlosdamasceno/Dados/Udacity/Self Drive Car/SentToUdacity/008 - Kidnapped Vehicle/src/particle_filter.h
+
+/media/marlosdamasceno/Dados/Udacity/Self Drive Car/SentToUdacity/008 - Kidnapped Vehicle/src/particle_filter.h
+helper_functions.h
+/media/marlosdamasceno/Dados/Udacity/Self Drive Car/SentToUdacity/008 - Kidnapped Vehicle/src/helper_functions.h
+
